@@ -234,7 +234,9 @@ ol {
 
 .header__top__widget {
 	padding: 14px 0 12px;
+	width: 800px;
 }
+
 
 .header__top__widget li {
 	font-size: 15px;
@@ -3367,4 +3369,20 @@ ol {
 		float: none;
 		margin-bottom: 15px;
 	}
+}
+
+.col-lg-12 .primary-btn {
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	display: block;
+	width: 8vw;
+	text-align: center;
+	border-radius: 16px;
+	
+}
+
+.gallery {
+	margin-bottom: 10px;
 }
