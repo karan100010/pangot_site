@@ -3404,6 +3404,25 @@ ol {
 	margin-top: 10px;
 }
 
+.room__details__facilities h2{
+	text-align: center;
+	/* width: 50%;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	margin-left: 10px; */
+	
+	
+}
+
+/* .container {
+	width: 50%;
+} */
+
+/* .extra .col-lg-6 .col-md-6 .col-sm-6{
+	padding-left: 50px;
+} */
+
 /* #foot {
 	scroll-behavior: smooth;
 	/* overflow-y: scroll; 
