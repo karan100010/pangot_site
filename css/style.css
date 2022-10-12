@@ -3386,3 +3386,8 @@ ol {
 .gallery {
 	margin-bottom: 10px;
 }
+
+.row {
+	justify-content: center;
+	align-items: center;
+}
