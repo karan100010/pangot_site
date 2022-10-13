@@ -3405,7 +3405,7 @@ ol {
 }
 
 .room__details__facilities h2{
-	text-align: center;
+	/* text-align: center; */
 	/* width: 50%;
 	padding: 0;
 	margin: 0;
@@ -3413,6 +3413,10 @@ ol {
 	margin-left: 10px; */
 	
 	
+}
+
+.row {
+	justify-content: flex-start;
 }
 
 /* .container {
