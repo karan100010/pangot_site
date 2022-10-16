@@ -238,7 +238,7 @@ ol {
 
 .header__top__widget {
 	padding: 14px 0 12px;
-	width: 800px;
+	width: 900px;
 }
 
 
@@ -1193,7 +1193,7 @@ ol {
 }
 
 .footer__about {
-	margin-bottom: 40px;
+	margin-bottom: 0px;
 }
 
 .footer__about .footer__logo {
@@ -1324,7 +1324,7 @@ ol {
 .footer__copyright {
 	border-top: 1px solid rgba(255, 255, 255, 0.1);
 	padding: 15px 0 12px;
-	margin-top: 35px;
+	margin-top: 15px;
 }
 
 .footer__copyright__text p {
@@ -3407,7 +3407,13 @@ ol {
 #fascilities{
 	justify-content: flex-start;
 }
+#foot{
+	padding-top: 15px;
+}
 
+.foot_num{
+	width: 300px;
+}
 /* .row {
 	justify-content: flex-start;
 } */
