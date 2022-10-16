@@ -3404,11 +3404,13 @@ ol {
 	margin-top: 10px;
 }
 
-
-
-.row {
+#fascilities{
 	justify-content: flex-start;
 }
+
+/* .row {
+	justify-content: flex-start;
+} */
 
 /* .container {
 	width: 50%;
